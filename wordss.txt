@@ -1,0 +1,124 @@
+kunne|3|0
+can|3|1
+er|9|2
+is|9|3
+ikke|5|4
+not|5|5
+hva|8|6
+what|8|7
+dere|6|8
+you|6|9
+bok|6|10
+book|6|11
+noe|9|12
+something|9|13
+barnet|1|14
+the child|1|15
+melk|8|16
+milk|8|17
+unnskyld|4|18
+sorry|4|19
+ja|9|20
+yes|9|21
+ha det|9|22
+bye|9|23
+helg|6|24
+weekend|6|25
+trenger|7|26
+need|7|27
+bare hyggelig|3|28
+you are welcome|3|29
+kylling|9|30
+chicken|9|31
+tomat|8|32
+tomato|8|33
+saltet|9|34
+the salt|9|35
+ølen|6|36
+the beer|6|37
+hemme|5|38
+her|5|39
+dem|8|40
+them|8|41
+en hytte|6|42
+a cabin|6|43
+det er|3|44
+there is|3|45
+avisen|9|46
+the newspaper|9|47
+mange|5|48
+many|5|49
+bor|2|50
+live|2|51
+kjøper|7|52
+buy|7|53
+viser|9|54
+show|9|55
+hører|0|56
+hear|0|57
+arbeider|7|58
+work|7|59
+vill ha|8|60
+want to have|8|61
+en sykkel|3|62
+a bicycle|3|63
+barn|7|64
+children|7|65
+når|5|66
+when|5|67
+kaffe|7|68
+caffe|7|69
+en drikk|6|70
+a drink|6|71
+et smørbrød|6|72
+a sandwich|6|73
+et bord|3|74
+a table|3|75
+mer|9|76
+more|9|77
+fire|7|78
+four|7|79
+seks|9|80
+six|9|81
+åtte|7|82
+eight|7|83
+sau|3|84
+sheep|3|85
+står|4|86
+standing|4|87
+sover|4|88
+sleep|4|89
+velger|3|90
+choose|3|91
+hans|2|92
+his|2|93
+hennes|1|94
+hers|1|95
+mitt|2|96
+mine|2|97
+eier|1|98
+owns|1|99
+vårt|0|100
+our|0|101
+dine|0|102
+your|0|103
+ofte|3|104
+often|3|105
+et rom|2|106
+a room|2|107
+en telefon|3|108
+a telephone|3|109
+mine|1|110
+my|1|111
+deres|0|112
+yours|0|113
+våre|0|114
+our (plural)|0|115
+navnet|0|116
+name|0|117
+tilhører|0|118
+belongs to|0|119
+nå|7|120
+now|7|121
+rommenes|3|122
+the rooms|3|123
